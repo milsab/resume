@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 3, 2018, 11:52:53 AM
+    Author     : Milad
+*/
+
+body{
+    background-color: lightcyan;
+}
+
+.title{
+    margin: 10px auto;
+    border: 2px solid darkgrey;
+    border-radius: 5px;
+    background-color: lightgray;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    /* box-shadow: 4px 10px 6px gray; */
+    width: 800px;
+    /* background-color: darkgrey; */
+    padding: 10px 20px;
+    color: black;
+}
+
+.title h3{
+    /*color: white;*/
+    font-family: sans-serif;
+    margin: 10px auto;
+}
+
+.skills{
+    line-height: 3;
+}
+

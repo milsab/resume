@@ -1,0 +1,6 @@
+projectKey=edu.iit.sat.itmd4515.msabouri:msabouri-lab2
+serverUrl=https://wheaton.rice.iit.edu/sonar
+serverVersion=7.1.0.11001
+dashboardUrl=https://wheaton.rice.iit.edu/sonar/dashboard/index/edu.iit.sat.itmd4515.msabouri:msabouri-lab2
+ceTaskId=AWWhPxxTwJ6jg6LIO-Cf
+ceTaskUrl=https://wheaton.rice.iit.edu/sonar/api/ce/task?id=AWWhPxxTwJ6jg6LIO-Cf
